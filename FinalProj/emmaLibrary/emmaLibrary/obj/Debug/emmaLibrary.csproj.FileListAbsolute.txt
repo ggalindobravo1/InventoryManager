@@ -1,0 +1,9 @@
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\bin\Debug\Emmas.mdf
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\bin\Debug\Emmas_log.ldf
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\bin\Debug\emmaLibrary.dll.config
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\bin\Debug\emmaLibrary.dll
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\bin\Debug\emmaLibrary.pdb
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\obj\Debug\emmaLibrary.csproj.AssemblyReference.cache
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\obj\Debug\emmaLibrary.csproj.CoreCompileInputs.cache
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\obj\Debug\emmaLibrary.dll
+C:\Term 3\RAD\FinalProj\emmaLibrary\emmaLibrary\obj\Debug\emmaLibrary.pdb
